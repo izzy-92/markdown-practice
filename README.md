@@ -132,7 +132,8 @@ fixed | 뷰포트 | X
 # 원시 HTML (Raw HTML)
 : 마크다운 문법안에서 실제 html 문법을 사용하는 개념.  
 
--u태그 대신 span 태그 특정한 단어,문장 묶어서 스타일 넣어주는것을 권장.
+u태그 대신 span 태그로  
+특정한 단어, 문장 묶어서 스타일 넣어주는것을 권장.
 
 동해물과 <span style="text-decoration: underline;">백두산</span>이 마르고 닳도록<br/>
 하느님이 보우하사 우리나라 만세
